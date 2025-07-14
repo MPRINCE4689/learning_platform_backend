@@ -1,1 +1,1 @@
-# Learning Platform Backend — RISE Internship Project
+# Learning Platform Backend
